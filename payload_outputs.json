@@ -1,0 +1,22 @@
+{
+	"<strike><tr>ptgrou<figure><h2<select><<i>ar<sub<discard>av>" : {
+	"dompurify": "<strike>ptgrou<figure>&lt;<i>arav&gt;</i></figure></strike>",
+	 "caja": "<strike><tr>ptgrou<figure><h2>&lt;<i>ar<sub>av&gt;</sub></i></h2></figure></tr></strike>",
+	 "jsxss": "<strike><tr>ptgrou<figure>&lt;h2&lt;select&gt;&lt;<i>ar&lt;sub&lt;discard&gt;av&gt;",
+	 "sanitizehtml": "<strike><tr>ptgrou&lt;<i>arav&gt;</i></tr></strike>",
+	 "angular": "<strike>ptgrou<figure>&lt;<i>arav&gt;</i></figure></strike>",
+	 "nodejs arcgis (Server-side)": "&lt;strike&gt;<tr>ptgrou<figure>&lt;h2&lt;select&gt;&lt;<i>ar&lt;sub&lt;discard&gt;av&gt;",
+	 "nodejs bleach-default (Server-side)": "<strike><tr>ptgrou<figure><h2<select><<i>ar<sub<discard>av>",
+	 "nodejs bleach-strict (Server-side)": "ptgrouarav>",
+	 "nodejs dompurify (Server-side)": "<strike>ptgrou<figure>&lt;<i>arav&gt;</i></figure></strike>",
+	 "nodejs insane-default (Server-side)": "<strike><tr>ptgrou</tr></strike>",
+	 "nodejs yahoopurify (Server-side)": "<tr>ptgrou<figure>&lt;<i>arav></i></figure></tr>",
+	 "php htmlawed (Server-side)": "<span style=\"text-decoration: line-through;\">ptgrou&lt;&lt;i&gt;ar<sub>av&gt;</sub></span>",
+	 "php htmlpurifier (Server-side)": "<figure><h2>&lt;<i>ar<sub>av&gt;</sub></i></h2></figure>",
+	 "php htmlsanitizor (Server-side)": "ptgrou<figure><h2><i>ar<sub>av&gt;</sub></i></h2></figure>",
+	 "php symphony (Server-side)": "<strike><tr>ptgrou<figure><h2><select><i>ar<sub></sub></i></select></h2></figure></tr></strike>",
+	 "php typo3 (Server-side)": "&lt;strike&gt;&lt;tr&gt;ptgrou&lt;figure&gt;&lt;h2&gt;&lt;select&gt;&lt;i&gt;ar&lt;sub&gt;&lt;discard&gt;av&amp;gt;&lt;/discard&gt;&lt;/sub&gt;&lt;/i&gt;&lt;/select&gt;&lt;/h2&gt;&lt;/figure&gt;&lt;/tr&gt;&lt;/strike&gt;",
+	 "python bleach (Server-side)": "&lt;strike&gt;&lt;tr&gt;ptgrou&lt;figure&gt;&lt;h2&lt;select&gt;&lt;<i>ar&lt;sub&lt;discard&gt;av&gt;</i>",
+	 "Provavelmente alguma templating engine, strip_tags(), ou similar": "ptgrou"
+	}
+}
